@@ -374,6 +374,9 @@ body {
         flex-wrap: wrap;
   }
   .main__item {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 1 100%;
+            flex: 0 1 100%;
     padding: 0 20px 0 20px;
     margin: 5% 0 5% 0;
   }
