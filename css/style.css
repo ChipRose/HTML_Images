@@ -270,8 +270,8 @@ body {
 
 .main__item {
   -webkit-box-flex: 0;
-      -ms-flex: 0 0 430px;
-          flex: 0 0 430px;
+      -ms-flex: 0 1 430px;
+          flex: 0 1 430px;
   margin: 0 10px 0 10px;
 }
 
